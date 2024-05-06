@@ -1,0 +1,15 @@
+C:\Training\Learn\Dotnet\HackerRank-ProblemSolving\DataTypes\bin\Debug\net6.0\DataTypes.exe
+C:\Training\Learn\Dotnet\HackerRank-ProblemSolving\DataTypes\bin\Debug\net6.0\DataTypes.deps.json
+C:\Training\Learn\Dotnet\HackerRank-ProblemSolving\DataTypes\bin\Debug\net6.0\DataTypes.runtimeconfig.json
+C:\Training\Learn\Dotnet\HackerRank-ProblemSolving\DataTypes\bin\Debug\net6.0\DataTypes.dll
+C:\Training\Learn\Dotnet\HackerRank-ProblemSolving\DataTypes\bin\Debug\net6.0\DataTypes.pdb
+C:\Training\Learn\Dotnet\HackerRank-ProblemSolving\DataTypes\obj\Debug\net6.0\DataTypes.csproj.AssemblyReference.cache
+C:\Training\Learn\Dotnet\HackerRank-ProblemSolving\DataTypes\obj\Debug\net6.0\DataTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Training\Learn\Dotnet\HackerRank-ProblemSolving\DataTypes\obj\Debug\net6.0\DataTypes.AssemblyInfoInputs.cache
+C:\Training\Learn\Dotnet\HackerRank-ProblemSolving\DataTypes\obj\Debug\net6.0\DataTypes.AssemblyInfo.cs
+C:\Training\Learn\Dotnet\HackerRank-ProblemSolving\DataTypes\obj\Debug\net6.0\DataTypes.csproj.CoreCompileInputs.cache
+C:\Training\Learn\Dotnet\HackerRank-ProblemSolving\DataTypes\obj\Debug\net6.0\DataTypes.dll
+C:\Training\Learn\Dotnet\HackerRank-ProblemSolving\DataTypes\obj\Debug\net6.0\refint\DataTypes.dll
+C:\Training\Learn\Dotnet\HackerRank-ProblemSolving\DataTypes\obj\Debug\net6.0\DataTypes.pdb
+C:\Training\Learn\Dotnet\HackerRank-ProblemSolving\DataTypes\obj\Debug\net6.0\DataTypes.genruntimeconfig.cache
+C:\Training\Learn\Dotnet\HackerRank-ProblemSolving\DataTypes\obj\Debug\net6.0\ref\DataTypes.dll

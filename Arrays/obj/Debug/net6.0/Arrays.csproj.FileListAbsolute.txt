@@ -1,0 +1,15 @@
+C:\Training\Learn\Dotnet\HackerRank-ProblemSolving\Arrays\bin\Debug\net6.0\Arrays.exe
+C:\Training\Learn\Dotnet\HackerRank-ProblemSolving\Arrays\bin\Debug\net6.0\Arrays.deps.json
+C:\Training\Learn\Dotnet\HackerRank-ProblemSolving\Arrays\bin\Debug\net6.0\Arrays.runtimeconfig.json
+C:\Training\Learn\Dotnet\HackerRank-ProblemSolving\Arrays\bin\Debug\net6.0\Arrays.dll
+C:\Training\Learn\Dotnet\HackerRank-ProblemSolving\Arrays\bin\Debug\net6.0\Arrays.pdb
+C:\Training\Learn\Dotnet\HackerRank-ProblemSolving\Arrays\obj\Debug\net6.0\Arrays.csproj.AssemblyReference.cache
+C:\Training\Learn\Dotnet\HackerRank-ProblemSolving\Arrays\obj\Debug\net6.0\Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Training\Learn\Dotnet\HackerRank-ProblemSolving\Arrays\obj\Debug\net6.0\Arrays.AssemblyInfoInputs.cache
+C:\Training\Learn\Dotnet\HackerRank-ProblemSolving\Arrays\obj\Debug\net6.0\Arrays.AssemblyInfo.cs
+C:\Training\Learn\Dotnet\HackerRank-ProblemSolving\Arrays\obj\Debug\net6.0\Arrays.csproj.CoreCompileInputs.cache
+C:\Training\Learn\Dotnet\HackerRank-ProblemSolving\Arrays\obj\Debug\net6.0\Arrays.dll
+C:\Training\Learn\Dotnet\HackerRank-ProblemSolving\Arrays\obj\Debug\net6.0\refint\Arrays.dll
+C:\Training\Learn\Dotnet\HackerRank-ProblemSolving\Arrays\obj\Debug\net6.0\Arrays.pdb
+C:\Training\Learn\Dotnet\HackerRank-ProblemSolving\Arrays\obj\Debug\net6.0\Arrays.genruntimeconfig.cache
+C:\Training\Learn\Dotnet\HackerRank-ProblemSolving\Arrays\obj\Debug\net6.0\ref\Arrays.dll

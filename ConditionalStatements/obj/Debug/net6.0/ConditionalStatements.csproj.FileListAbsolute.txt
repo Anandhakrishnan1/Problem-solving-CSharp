@@ -1,0 +1,15 @@
+C:\Training\Learn\Dotnet\HackerRank-ProblemSolving\ConditionalStatements\bin\Debug\net6.0\ConditionalStatements.exe
+C:\Training\Learn\Dotnet\HackerRank-ProblemSolving\ConditionalStatements\bin\Debug\net6.0\ConditionalStatements.deps.json
+C:\Training\Learn\Dotnet\HackerRank-ProblemSolving\ConditionalStatements\bin\Debug\net6.0\ConditionalStatements.runtimeconfig.json
+C:\Training\Learn\Dotnet\HackerRank-ProblemSolving\ConditionalStatements\bin\Debug\net6.0\ConditionalStatements.dll
+C:\Training\Learn\Dotnet\HackerRank-ProblemSolving\ConditionalStatements\bin\Debug\net6.0\ConditionalStatements.pdb
+C:\Training\Learn\Dotnet\HackerRank-ProblemSolving\ConditionalStatements\obj\Debug\net6.0\ConditionalStatements.csproj.AssemblyReference.cache
+C:\Training\Learn\Dotnet\HackerRank-ProblemSolving\ConditionalStatements\obj\Debug\net6.0\ConditionalStatements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Training\Learn\Dotnet\HackerRank-ProblemSolving\ConditionalStatements\obj\Debug\net6.0\ConditionalStatements.AssemblyInfoInputs.cache
+C:\Training\Learn\Dotnet\HackerRank-ProblemSolving\ConditionalStatements\obj\Debug\net6.0\ConditionalStatements.AssemblyInfo.cs
+C:\Training\Learn\Dotnet\HackerRank-ProblemSolving\ConditionalStatements\obj\Debug\net6.0\ConditionalStatements.csproj.CoreCompileInputs.cache
+C:\Training\Learn\Dotnet\HackerRank-ProblemSolving\ConditionalStatements\obj\Debug\net6.0\ConditionalStatements.dll
+C:\Training\Learn\Dotnet\HackerRank-ProblemSolving\ConditionalStatements\obj\Debug\net6.0\refint\ConditionalStatements.dll
+C:\Training\Learn\Dotnet\HackerRank-ProblemSolving\ConditionalStatements\obj\Debug\net6.0\ConditionalStatements.pdb
+C:\Training\Learn\Dotnet\HackerRank-ProblemSolving\ConditionalStatements\obj\Debug\net6.0\ConditionalStatements.genruntimeconfig.cache
+C:\Training\Learn\Dotnet\HackerRank-ProblemSolving\ConditionalStatements\obj\Debug\net6.0\ref\ConditionalStatements.dll

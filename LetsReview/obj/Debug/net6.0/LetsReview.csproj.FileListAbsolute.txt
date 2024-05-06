@@ -1,0 +1,15 @@
+C:\Training\Learn\Dotnet\HackerRank-ProblemSolving\LetsReview\bin\Debug\net6.0\LetsReview.exe
+C:\Training\Learn\Dotnet\HackerRank-ProblemSolving\LetsReview\bin\Debug\net6.0\LetsReview.deps.json
+C:\Training\Learn\Dotnet\HackerRank-ProblemSolving\LetsReview\bin\Debug\net6.0\LetsReview.runtimeconfig.json
+C:\Training\Learn\Dotnet\HackerRank-ProblemSolving\LetsReview\bin\Debug\net6.0\LetsReview.dll
+C:\Training\Learn\Dotnet\HackerRank-ProblemSolving\LetsReview\bin\Debug\net6.0\LetsReview.pdb
+C:\Training\Learn\Dotnet\HackerRank-ProblemSolving\LetsReview\obj\Debug\net6.0\LetsReview.csproj.AssemblyReference.cache
+C:\Training\Learn\Dotnet\HackerRank-ProblemSolving\LetsReview\obj\Debug\net6.0\LetsReview.GeneratedMSBuildEditorConfig.editorconfig
+C:\Training\Learn\Dotnet\HackerRank-ProblemSolving\LetsReview\obj\Debug\net6.0\LetsReview.AssemblyInfoInputs.cache
+C:\Training\Learn\Dotnet\HackerRank-ProblemSolving\LetsReview\obj\Debug\net6.0\LetsReview.AssemblyInfo.cs
+C:\Training\Learn\Dotnet\HackerRank-ProblemSolving\LetsReview\obj\Debug\net6.0\LetsReview.csproj.CoreCompileInputs.cache
+C:\Training\Learn\Dotnet\HackerRank-ProblemSolving\LetsReview\obj\Debug\net6.0\LetsReview.dll
+C:\Training\Learn\Dotnet\HackerRank-ProblemSolving\LetsReview\obj\Debug\net6.0\refint\LetsReview.dll
+C:\Training\Learn\Dotnet\HackerRank-ProblemSolving\LetsReview\obj\Debug\net6.0\LetsReview.pdb
+C:\Training\Learn\Dotnet\HackerRank-ProblemSolving\LetsReview\obj\Debug\net6.0\LetsReview.genruntimeconfig.cache
+C:\Training\Learn\Dotnet\HackerRank-ProblemSolving\LetsReview\obj\Debug\net6.0\ref\LetsReview.dll

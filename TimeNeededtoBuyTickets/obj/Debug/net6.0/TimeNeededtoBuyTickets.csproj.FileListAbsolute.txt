@@ -1,0 +1,15 @@
+C:\Training\Learn\Dotnet\HackerRank-ProblemSolving\TimeNeededtoBuyTickets\bin\Debug\net6.0\TimeNeededtoBuyTickets.exe
+C:\Training\Learn\Dotnet\HackerRank-ProblemSolving\TimeNeededtoBuyTickets\bin\Debug\net6.0\TimeNeededtoBuyTickets.deps.json
+C:\Training\Learn\Dotnet\HackerRank-ProblemSolving\TimeNeededtoBuyTickets\bin\Debug\net6.0\TimeNeededtoBuyTickets.runtimeconfig.json
+C:\Training\Learn\Dotnet\HackerRank-ProblemSolving\TimeNeededtoBuyTickets\bin\Debug\net6.0\TimeNeededtoBuyTickets.dll
+C:\Training\Learn\Dotnet\HackerRank-ProblemSolving\TimeNeededtoBuyTickets\bin\Debug\net6.0\TimeNeededtoBuyTickets.pdb
+C:\Training\Learn\Dotnet\HackerRank-ProblemSolving\TimeNeededtoBuyTickets\obj\Debug\net6.0\TimeNeededtoBuyTickets.csproj.AssemblyReference.cache
+C:\Training\Learn\Dotnet\HackerRank-ProblemSolving\TimeNeededtoBuyTickets\obj\Debug\net6.0\TimeNeededtoBuyTickets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Training\Learn\Dotnet\HackerRank-ProblemSolving\TimeNeededtoBuyTickets\obj\Debug\net6.0\TimeNeededtoBuyTickets.AssemblyInfoInputs.cache
+C:\Training\Learn\Dotnet\HackerRank-ProblemSolving\TimeNeededtoBuyTickets\obj\Debug\net6.0\TimeNeededtoBuyTickets.AssemblyInfo.cs
+C:\Training\Learn\Dotnet\HackerRank-ProblemSolving\TimeNeededtoBuyTickets\obj\Debug\net6.0\TimeNeededtoBuyTickets.csproj.CoreCompileInputs.cache
+C:\Training\Learn\Dotnet\HackerRank-ProblemSolving\TimeNeededtoBuyTickets\obj\Debug\net6.0\TimeNeededtoBuyTickets.dll
+C:\Training\Learn\Dotnet\HackerRank-ProblemSolving\TimeNeededtoBuyTickets\obj\Debug\net6.0\refint\TimeNeededtoBuyTickets.dll
+C:\Training\Learn\Dotnet\HackerRank-ProblemSolving\TimeNeededtoBuyTickets\obj\Debug\net6.0\TimeNeededtoBuyTickets.pdb
+C:\Training\Learn\Dotnet\HackerRank-ProblemSolving\TimeNeededtoBuyTickets\obj\Debug\net6.0\TimeNeededtoBuyTickets.genruntimeconfig.cache
+C:\Training\Learn\Dotnet\HackerRank-ProblemSolving\TimeNeededtoBuyTickets\obj\Debug\net6.0\ref\TimeNeededtoBuyTickets.dll
