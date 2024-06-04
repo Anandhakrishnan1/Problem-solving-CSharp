@@ -1,0 +1,15 @@
+C:\Training\Learn\Dotnet\Problem-solving-CSharp\FibinociiSeries\bin\Debug\net6.0\FibinociiSeries.exe
+C:\Training\Learn\Dotnet\Problem-solving-CSharp\FibinociiSeries\bin\Debug\net6.0\FibinociiSeries.deps.json
+C:\Training\Learn\Dotnet\Problem-solving-CSharp\FibinociiSeries\bin\Debug\net6.0\FibinociiSeries.runtimeconfig.json
+C:\Training\Learn\Dotnet\Problem-solving-CSharp\FibinociiSeries\bin\Debug\net6.0\FibinociiSeries.dll
+C:\Training\Learn\Dotnet\Problem-solving-CSharp\FibinociiSeries\bin\Debug\net6.0\FibinociiSeries.pdb
+C:\Training\Learn\Dotnet\Problem-solving-CSharp\FibinociiSeries\obj\Debug\net6.0\FibinociiSeries.csproj.AssemblyReference.cache
+C:\Training\Learn\Dotnet\Problem-solving-CSharp\FibinociiSeries\obj\Debug\net6.0\FibinociiSeries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Training\Learn\Dotnet\Problem-solving-CSharp\FibinociiSeries\obj\Debug\net6.0\FibinociiSeries.AssemblyInfoInputs.cache
+C:\Training\Learn\Dotnet\Problem-solving-CSharp\FibinociiSeries\obj\Debug\net6.0\FibinociiSeries.AssemblyInfo.cs
+C:\Training\Learn\Dotnet\Problem-solving-CSharp\FibinociiSeries\obj\Debug\net6.0\FibinociiSeries.csproj.CoreCompileInputs.cache
+C:\Training\Learn\Dotnet\Problem-solving-CSharp\FibinociiSeries\obj\Debug\net6.0\FibinociiSeries.dll
+C:\Training\Learn\Dotnet\Problem-solving-CSharp\FibinociiSeries\obj\Debug\net6.0\refint\FibinociiSeries.dll
+C:\Training\Learn\Dotnet\Problem-solving-CSharp\FibinociiSeries\obj\Debug\net6.0\FibinociiSeries.pdb
+C:\Training\Learn\Dotnet\Problem-solving-CSharp\FibinociiSeries\obj\Debug\net6.0\FibinociiSeries.genruntimeconfig.cache
+C:\Training\Learn\Dotnet\Problem-solving-CSharp\FibinociiSeries\obj\Debug\net6.0\ref\FibinociiSeries.dll
