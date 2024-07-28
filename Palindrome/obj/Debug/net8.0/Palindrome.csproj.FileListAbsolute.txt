@@ -1,0 +1,15 @@
+D:\Learning\Problem-solving-CSharp\Palindrome\bin\Debug\net8.0\Palindrome.exe
+D:\Learning\Problem-solving-CSharp\Palindrome\bin\Debug\net8.0\Palindrome.deps.json
+D:\Learning\Problem-solving-CSharp\Palindrome\bin\Debug\net8.0\Palindrome.runtimeconfig.json
+D:\Learning\Problem-solving-CSharp\Palindrome\bin\Debug\net8.0\Palindrome.dll
+D:\Learning\Problem-solving-CSharp\Palindrome\bin\Debug\net8.0\Palindrome.pdb
+D:\Learning\Problem-solving-CSharp\Palindrome\obj\Debug\net8.0\Palindrome.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\Problem-solving-CSharp\Palindrome\obj\Debug\net8.0\Palindrome.AssemblyInfoInputs.cache
+D:\Learning\Problem-solving-CSharp\Palindrome\obj\Debug\net8.0\Palindrome.AssemblyInfo.cs
+D:\Learning\Problem-solving-CSharp\Palindrome\obj\Debug\net8.0\Palindrome.csproj.CoreCompileInputs.cache
+D:\Learning\Problem-solving-CSharp\Palindrome\obj\Debug\net8.0\Palindrome.sourcelink.json
+D:\Learning\Problem-solving-CSharp\Palindrome\obj\Debug\net8.0\Palindrome.dll
+D:\Learning\Problem-solving-CSharp\Palindrome\obj\Debug\net8.0\refint\Palindrome.dll
+D:\Learning\Problem-solving-CSharp\Palindrome\obj\Debug\net8.0\Palindrome.pdb
+D:\Learning\Problem-solving-CSharp\Palindrome\obj\Debug\net8.0\Palindrome.genruntimeconfig.cache
+D:\Learning\Problem-solving-CSharp\Palindrome\obj\Debug\net8.0\ref\Palindrome.dll
